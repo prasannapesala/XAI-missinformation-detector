@@ -18,3 +18,4 @@ fpdf2
 fastapi
 uvicorn
 opencv-python-headless
+beautifulsoup4
