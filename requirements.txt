@@ -1,20 +1,38 @@
+# Core ML & Data
+torch
 transformers
 datasets
-torch
-shap
-lime
-scikit-learn
 pandas
 numpy
-matplotlib
-streamlit
-Pillow
-easyocr
-requests
-newsapi-python
+scikit-learn
+scipy
+
+# Explainable AI (XAI)
+shap
+lime
+
+# NLP & Text Processing
 spacy
 textblob
+
+# Dashboard & Visualizations
+streamlit
+matplotlib
+plotly
+
+# Web Scraping & APIs
+requests
+beautifulsoup4
+newsapi-python
+
+# Image Processing (if used in other scripts)
+Pillow
+easyocr
+opencv-python-headless
+
+# PDF Generation
 fpdf2
+
+# API Server (if you run a backend)
 fastapi
 uvicorn
-opencv-python-headless
